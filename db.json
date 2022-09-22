@@ -1,0 +1,16 @@
+{
+  "profitability": [
+    {
+      "id": 1,
+      "brand": "Bitmain",
+      "name": "S19A Pro 106T",
+      "price": 10259,
+      "releaseDate": 1663818822000,
+      "hashrate": 40200,
+      "power": 3350,
+      "powerRate": 0.12,
+      "coins": "BTC",
+      "netProfit": 115.15
+    }
+  ]
+}
